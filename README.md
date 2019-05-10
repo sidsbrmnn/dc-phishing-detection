@@ -1,6 +1,6 @@
 # Detecting phishing websites using a decision tree
 
-This repository contains the code for a phishing detector model using a decision tree for a mini project in [phishing](https://en.wikipedia.org/wiki/Phishing). Typically, phishing websites disguise as trustworthy websites in order to gain the trust of their victims, and malicious parties use them to obtain sensitive information from their victims: e.g., passwords or credit card numbers. In this tutorial, we train a decision tree to detect such websites, with a success rate of 96%.
+This repository contains the code for a phishing detector model using a decision tree for a mini project in [phishing](https://en.wikipedia.org/wiki/Phishing). Typically, phishing websites disguise as trustworthy websites in order to gain the trust of their victims, and malicious parties use them to obtain sensitive information from their victims: e.g., passwords or credit card numbers. In this project, we train a decision tree to detect such websites, with a success rate of 96%.
 
 ## Installation
 
