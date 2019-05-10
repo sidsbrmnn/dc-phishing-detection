@@ -35,7 +35,7 @@ def main():
     print("Predictions on testing data computed.")
 
     accuracy = 100.0 * accuracy_score(test_outputs, predictions)
-    print("Accuracy of decision tree is: ", accuracy)
+    print("Accuracy of decision tree is:", accuracy)
 
 
 if __name__ == '__main__':

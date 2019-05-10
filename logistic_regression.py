@@ -23,7 +23,7 @@ def main():
     print("Predictions on testing data computed.")
 
     accuracy = 100.0 * accuracy_score(test_outputs, predictions)
-    print("Accuracy of logistic regression is: ", accuracy)
+    print("Accuracy of logistic regression is:", accuracy)
 
 
 if __name__ == '__main__':
